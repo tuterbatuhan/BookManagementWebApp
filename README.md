@@ -10,4 +10,5 @@ http://dijkstra.ug.bcc.bilkent.edu.tr/~batuhan.tuter/signin.php
 For Test:
 
 User Name: Mehemt Guvercin
-PassWord: 11111
+
+Password: 11111
