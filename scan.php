@@ -1,10 +1,10 @@
 <?php
 session_start();
 #Connect DB
-define('DB_HOST', 'localhost');
-define('DB_NAME', 'batuhan_tuter');
-define('DB_USER','batuhan.tuter'); 
-define('DB_PASSWORD','lcknr6rq8');
+define('DB_HOST', '********');
+define('DB_NAME', '********');
+define('DB_USER','********'); 
+define('DB_PASSWORD','********');
 echo "Welcome To Search Book Page! <br><br>";
 
 $con=mysql_connect(DB_HOST,DB_USER,DB_PASSWORD) or die("Failed to connect to MySQL: " . mysql_error());
