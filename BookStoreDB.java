@@ -11,8 +11,8 @@ public class BookStoreDB {
 	   static final String DB_URL = "jdbc:mysql://dijkstra.ug.bcc.bilkent.edu.tr/batuhan_tuter";
 	   
 	   //  Database credentials
-	   static final String USER = "batuhan.tuter";
-	   static final String PASS = "lcknr6rq8";
+	   static final String USER = "*******";
+	   static final String PASS = "*******";
 	   
 	public static void main(String[] args) {
 		
