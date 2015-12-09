@@ -3,9 +3,9 @@
 session_start();
 
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'batuhan_tuter');
-define('DB_USER','batuhan.tuter'); 
-define('DB_PASSWORD','lcknr6rq8');
+define('DB_NAME', '**********');
+define('DB_USER','***********'); 
+define('DB_PASSWORD','********');
 
 #Alerts the user that the book is sold
 if(isset($_SESSION['sold']))
