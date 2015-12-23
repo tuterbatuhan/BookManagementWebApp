@@ -5,7 +5,7 @@ Created using PHP, JavaScript, JQuery, MySQL and Java for Cs353 DataBase Course.
 
 Link For The Real Usage:
 
-http://dijkstra.ug.bcc.bilkent.edu.tr/~batuhan.tuter/signin.php
+http://dijkstra.ug.bcc.bilkent.edu.tr/~batuhan.tuter/bookManagement/signin.php
 
 For Test:
 
